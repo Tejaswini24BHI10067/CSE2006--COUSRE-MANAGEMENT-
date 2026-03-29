@@ -124,7 +124,7 @@ java Main
 3.Database integration
 4.Cloud-based storage
 
-11) Learning Outcomes:
+10) Learning Outcomes:
     
 Implementation of Object-Oriented Programming
 File handling in Java
